@@ -22,15 +22,10 @@ def delthumb(chat_id):
 	dbcol.update_one({"_id":chat_id},{"$set":{"file_id":None}})
 	
 def find(chat_id):
-	id =  {"_id":chat_id}
-	x = dbcol.find(id)
-	for i in x:
-             lgcd = i["file_id"]
-             return lgcd 
+            id =  {"_id":chat_id}
+            x = dbcol.find(id)
+            for i in x:
+                        return i["file_id"] 
 
 def getid():
-    values = []
-    for key  in dbcol.find():
-         id = key["_id"]
-         values.append((id)) 
-    return values
+            return [key["_id"] for key in dbcol.find()]
