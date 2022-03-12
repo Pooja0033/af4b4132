@@ -5,15 +5,15 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/lntechnical2/RENAMER_BOT",
-    "success_url": "https://telegram.dog/lntechnical",
+    "repository": "https://github.com/MRK-YT/RENAMER_BOT",
+    "success_url": "https://telegram.dog/mo_tech_group",
     "env": {
         "APP_ID": {
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "Your API Hash From my.telegram.org @MT_MytelegramOrg_Bot",
             "value": ""
         },
         "TOKEN": {
@@ -21,15 +21,15 @@
             "value": ""
         },
         "ADMIN": {
-            "description":"Add Your User ID"
+            "description":"Add Your User ID @MT_ID_Bot"
         },
         "DB_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "Your Mongo DB URL Obtained From https://youtu.be/mD9veNL7KoE",
             "value": ""
         },
         "DB_NAME":{ 
                "description":"Your Mongo DB Database Name ",
-                "value": "my",
+                "value": "mybot",
                 "required": false
         }
     },
