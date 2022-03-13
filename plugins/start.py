@@ -15,7 +15,7 @@ async def start(client,message):
           InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/Mo_Tech_Group"), 
 	  InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/MoTech_YT")
           ],[
-          InlineKeyboardButton("🧩 Deploy 🧩", url="https://youtube.com/c/MoTech_YT")
+          InlineKeyboardButton("🧩 Deploy 🧩", url="https://youtu.be/7ALYUk-rYMc")
           ]]
           )
         )
