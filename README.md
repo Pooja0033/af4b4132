@@ -52,7 +52,7 @@ and larger works may be distributed under different terms and without source cod
 <a href="https://t.me/lntechnical">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
+<a href="https://youtube.com/c/MoTech_YT">
    <p> YouTube </p>
   </a>
 
