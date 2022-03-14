@@ -10,7 +10,7 @@ Telegram File Renamer Bot
 </p>
 </p>
 
-
+## [How To Deploy](https://youtu.be/7ALYUk-rYMc)
 
 
 ## Configs 
